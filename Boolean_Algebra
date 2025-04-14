@@ -1,0 +1,9 @@
+BOOLEAN ALGEBRA : describe how logic circuits works.
+What is need ? or Why to learn?
+  1. To design logic circuits
+  2. Important for Digital electronics and plc
+  3. Base of programming logic and microcontroller operation.
+
+LOGIC GATES : 
+
+1. NOT Gate (Inverter) : Toggle the inputs 1 --> 0 , 0 -->1
